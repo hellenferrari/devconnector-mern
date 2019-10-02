@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://hellen1:pass1@cluster0-gsylz.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "22e16d6b6078bbb2ecc0",
+    "githubSecret": "b54df51b0c6476bc3bd2849ee2134f45138b1693"
+}
